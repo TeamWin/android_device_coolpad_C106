@@ -27,4 +27,3 @@ PRODUCT_BRAND := Coolpad
 PRODUCT_MANUFACTURER := Coolpad
 PRODUCT_MODEL := Coolpad Cool 1
 
-
